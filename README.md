@@ -1,9 +1,10 @@
 # Automated-Git-Commit-Tool
 
 - The tool has been created using Python and Google's Gemini Generative AI model. 
-- It essentially detects the changes that have been made between a previous commit and the next commmit and lists the changes in the commit message.
+- It essentially detects the changes that have been made between a previous commit and the next commit and lists the changes in the commit message.
+- Helps you by saving your time from describing all the changes you made so you can focus on Coding and Implementation.
 
 ### Iteration 2 Plan 
 
-- Currently, all the changes made a provided in the Commit Message, however, we would like to have the more detailed version appear when PR (Pull Requests) are made to trasnfer code from
+- Currently, all the changes made a provided in the Commit Message, however, we would like to have the more detailed version appear when PR (Pull Requests) are made to transfer code from
   a functional branch to the main branch or a similar repository PR.
